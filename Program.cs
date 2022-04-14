@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("======= Real Calculator ");
+Console.WriteLine("======= Real Calculator ======== ");
 
 // Create new console application “RealCalculator” that takes two numbers from the input and asks what operation would the user want to be done ( +, - , * , / ). Then it returns the result.
 //Test Data:
